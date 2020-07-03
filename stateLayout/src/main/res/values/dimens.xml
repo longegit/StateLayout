@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="state_layout_drawable_size">76dp</dimen>
+    <dimen name="state_layout_info_margin_top">-56dp</dimen>
+</resources>
